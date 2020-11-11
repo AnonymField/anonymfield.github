@@ -1,0 +1,33 @@
+body{
+
+    background-color: aquamarine;
+}
+
+#valami_1{
+
+    width: 50px;
+}
+
+#valami_2{
+
+    width: 50px;
+}
+
+#Szamol{
+    width: 133px;
+}
+
+#eredmenyek {
+
+    background-color: rgb(255, 255, 255);
+    align-self: center;
+    box-sizing: border-box;
+    padding: 1px;
+}
+#div_1{
+  background-color: tomato;
+  width: 220px;
+  margin-top: 200px;
+  padding: 50px;
+  
+}
